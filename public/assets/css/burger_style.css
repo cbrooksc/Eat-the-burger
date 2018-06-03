@@ -1,0 +1,35 @@
+li {
+    background: #FAEBD7;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .label,h6,h1,h2,form {
+    font-weight: bold;
+    color: white;
+  }
+  
+  .create-update-form {
+    background: aqua;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+body {
+    /* background-color:lightblue; */
+    background: url('../img/background3.jpg');
+}
+
+h1 {
+  text-align: center;
+  font-style: inherit;
+  font-size: 50px;
+}
+
+h6 {
+  font-size: 20px;
+}
